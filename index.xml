@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>本日も桜が綺麗</title>
+    <link>https://sakuragaki.github.io/</link>
+    <description>Recent content on 本日も桜が綺麗</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 19 Jan 2021 18:19:04 +0900</lastBuildDate>
+    
+	<atom:link href="https://sakuragaki.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>悟りには程遠い</title>
+      <link>https://sakuragaki.github.io/posts/satorinihahodotooi/</link>
+      <pubDate>Tue, 19 Jan 2021 18:19:04 +0900</pubDate>
+      
+      <guid>https://sakuragaki.github.io/posts/satorinihahodotooi/</guid>
+      <description>話です</description>
+    </item>
+    
+  </channel>
+</rss>
